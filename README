@@ -1,0 +1,10 @@
+Prints PDF name badges to fit Avery name badges.
+Looks up data from a google spreadsheet (which was using the Form submission feature
+to retrieve signups for a conference.) 
+
+Jonathan Andrew Wolter, 2008
+
+
+TODO:
+- upload the lib deps so it's stand-alone runnable.
+- turn into a google app engine hosted project so anyone can make badges from google docs data.
