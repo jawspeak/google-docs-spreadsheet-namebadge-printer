@@ -5,6 +5,19 @@ to retrieve signups for a conference.)
 Jonathan Andrew Wolter, 2008
 
 
+Usage
+-----
+
+Install dependencies:
+
+# pip install reportlab
+# pip install dgata
+# update the source w/ the doc's key to the right doc that makes sense for what you columns are (maybe changing that part of the script too).
+# python spreadsheet_badge_printer.py
+
+
+
+
 TODO:
 - upload the lib deps so it's stand-alone runnable.
 - turn into a google app engine hosted project so anyone can make badges from google docs data.

@@ -3,7 +3,6 @@
 
 import getpass
 
-# has dependencies on pdfgen
 from reportlab.pdfgen.canvas import Canvas
 from reportlab.lib.pagesizes import letter
 from reportlab.lib.units import inch
@@ -14,10 +13,8 @@ import gdata.spreadsheet.service
 DOCUMENT_KEY='update to be your key/id from hosted google docs' #comes from the url key=xxxx
 
 """Prints PDF name badges to fit Avery name badges.
-Looks up data from a google spreadsheet (which was using the Form submission feature
+Looks up data from a CSV (which was using the Form submission feature
 to retrieve signups for a conference.) 
-
-Jonathan Andrew Wolter, 2008
 """
 
 
