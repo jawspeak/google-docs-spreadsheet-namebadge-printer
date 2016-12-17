@@ -1,0 +1,165 @@
+Type,Text,Added
+Scenario,Your team got re-orged,class 1
+Scenario,Your technology stack is officially deprecated within the company,class 1
+Scenario,Team member is fixated on getting a promotion,class 1
+Scenario,Your most senior engineer quits,class 1
+Scenario,Your team seems to be unmotivated and people leave work early,class 1
+Scenario,Layoffs are announced and all the people laid off know. Some are on your team.,class 1
+Scenario,Two people need to work together but they don't like each other,class 1
+Scenario,New grads join your team. Now your team is 25% new grads with no professional experience.,class 1
+Scenario,Team member wants to quit / transfer,class 1
+Scenario,New app version goes live - crashing on launch,class 1
+Scenario,Team complains too many meetings,class 1
+Scenario,Work stopped. There is no clear design.,class 1
+Scenario,Attrition trend: 3 people (a significant %) left over the last month,class 1
+Scenario,Asked to do a cost savings project many people on the team are not that enthusiastic about (as opposed to a revenue generating project),class 1
+Scenario,"Discovered project was unscoped and is totally behind in the schedule. Really need to launch it in 6 weeks, but team is giving up and doesn't believe it is possible.",class 1
+Scenario,You started managing a new team and discover they don't have a clear roadmap of work for all the Engineers to do.,class 1
+Scenario,"Your company is running out of money - need Series A, and your team needs to keep working on this product which is not yet seeing traction",class 1
+Scenario,"Your team serves an important customer need, but it doesn't have any way to measure its Availability as perceived by your customers.",class 1
+Scenario,Your team's project just got canceled.,class 1
+Scenario,"Your team isn't a product team, rather a team only noticed if something breaks. This leads your team members to feel their work is not as visible and it appears harder to motivate them. As an EM you also wish to be on product where you would be more visible.",class 1
+Scenario,"You have a clique on a team that makes it hard for others to feel at home. (formed via acquisition, former coworkers, just friends, etc)",class 1
+Scenario,"Two engineers are stepping on each other's toes a bit when collaborating on a design doc. One engineer asks you: ""Hey, did you tell <other engineer> that I'm mad at him?""",class 2
+Scenario,"Cross-functional partner put something in their OKRs that requires a bunch of work from your team. You didn't know about it, and the partner gets upset when it's revealed that you don't have a corresponding OKR.",class 2
+Scenario,An engineer on your team who has been performing at a low level for years at your company. Their previous manager was complacent and gave them passing performance reviews. You need to make it clear that their previous level of performance is not acceptable anymore.,class 2
+Scenario,"1 eng in your team works with eng in another team. Eng in the other team isn't satisfied with the eng perf in your team, but instead of talking to you, eng complained directly to your manager. Your manager is checking with you. (Address both your manager, and the eng in your team).",class 2
+Scenario,"Cross-functional project has only 1 PM representing multiple eng-teams. PM only closely works with 1 team (full PM for that team) instead of mine, therefore my team is less represented. PM only partially works with my team, work/requests feels less organized.",class 2
+Scenario,A member of your team approaches you about doing an internal transfer into another team. This person is highly valued and you would hate to see them go.,class 2
+Scenario,A member of your team approaches you about doing an internal transfer into another team. You were on the verge of putting this individual of a PIP.,class 2
+Scenario,Your team is stuck with a bunch of uninteresting (technically) but important (business-wise) work. Several want to transfer to teams with more interesting work.,class 2
+Scenario,A personal crisis / problem causes an employee's performance to degrade precipitously. You want to balance a humane response and getting the important work that employee was doing shipped.,class 2
+Scenario,"Technical leadership is part of the L4 -> L5 -> L6 promotion criteria. Your team is comprised mostly of L5s and tenured L4s, and there aren't a ton of formal mentorship opportunities.",class 2
+Scenario,An engineer on your team has written a multitude of scripts and other tools that make him more productive. The others on the team can't figure out how to use them.,class 2
+Scenario,A member of your team is doing great work... while they're in the office. They just took a long break in the middle of crunch time and only gave you two weeks notice. Feedback cycle is coming up.,class 2
+Scenario,"A member of your team is internally transferring to another team, but in the middle of the next quarter. How does your leadership change, knowing that they're halfway out the door?",class 2
+Scenario,Your team is comprised of multiple L6's who have joined in the last 6 months. They ask about promotion criteria and how they can work towards it.,class 2
+Instant,Stock jumps 15% in one day,class 0
+Instant,Stock falls 20% in one day,class 2
+Instant,"A reorg is announced, you are now managing the person dealing with the scenario",class 2
+Instant,"A reorg is announced, your team doubles (in actual people, not just headcount)",class 2
+Instant,"A reorg is announced, your team is reduced in 1/2",class 2
+Instant,Your product is growing 30% m/m - team moral is super high,class 2
+Instant,"Your boss quits, you are now your EM role and acting as the interum for your boss' role",class 2
+Instant,Lawsuit against an executive,class 2
+Instant,You get promoted,class 2
+Instant,wildcard,class 2
+Instant,wildcard,class 2
+Instant,wildcard,class 2
+Instant,wildcard,class 2
+Instant,Your last offsite resulted in a lawsuit,class 2
+Instant,wildcard,class 2
+Instant,wildcard,class 2
+Action,Fire / manage out,class 2
+Action,Hire!,class 2
+Action,Organize wiki,class 2
+Action,Give praise! ,class 2
+Action,Apologize,class 2
+Action,Give inside scoop / heads up info in a 1:1 with someone,class 2
+Action,OKRs,class 2
+Action,Move people around and send out a new seating chart,class 2
+Action,Create an availability tracking doc and standards around measuring your team's uptime / SLA,class 2
+Action,Run a postmortem / retrospective meeting,class 2
+Action,Collect 360 degree feedback / peer feedback for people on your team (independent of a perf review),class 2
+Action,"Set milestones, make them visible, print on wall, talk about them all the time so people understand what we are driving towards",class 2
+Action,Plan a team offsite,class 2
+Action,Have a retro,class 2
+Action,Schedule regular lunch and learns,class 2
+Action,Talk to HR about beginning a PIP,class 2
+Action,Do moonshot team planning,class 2
+Action,Change your project management process - communicate the new process effectively next week,class 2
+Action,Have a pep rally - do a motivational speech with the whole team there,class 2
+Action,Send out a meeting with a very clear agenda (recurring or one-off),class 2
+Action,Have a brainstorming meeting,class 2
+Action,Have a 1-1 with ___ about ___,class 2
+Action,Poach / recruit other engineers from internal teams,class 2
+Action,Switch projects among team members,class 2
+Action,Create / refine work backlog (one off or recurring),class 2
+Action,Polish up your resume,class 2
+Action,Encourage pair programming,class 2
+Action,Build a dashboard with product metrics,class 2
+Action,Quit,class 2
+Action,Schedule 1:1s between team members,class 2
+Action,1:1s with lateral engineering managers,class 2
+Action,Invite other teams in the company to weekly demos,class 2
+Action,Discuss documented engineering levels / eng ladder requirements,class 2
+Action,Do project inceptions,class 2
+Action,Make a regular status meeting. Define the agenda in a doc with goals / non-goals. Hold the team accountable to following this new meeting for a month.,class 2
+Action,Create a 'sell sheet' to help close candidates you are trying to hire. Have your whole team contribute to the doc why your team is so awesome.,class 2
+Action,Pitch an idea as an experiment,class 2
+Action,"Social: lunches, offsites, drinks, snacks. Team lunch (recurring or one-off)",class 2
+Action,Have a meeting,class 2
+Action,wildcard,
+Action,wildcard,
+Action,wildcard,
+Action,wildcard,
+Action,wildcard,
+Action,wildcard,
+Action,"Take a vacation, or encourage someone on the team to take a vacation",class 2
+Action,Organize a hack week,class 2
+Action,Hire!,class 2
+Action,Announce a goal,class 2
+Action,Write a policy,class 2
+Action,Do a karaoke offsite,class 2
+Action,Reflect on your EM values shift from an IC. ,class 2
+Action,Create goals with everyone in 1-1s,class 2
+Action,Backlog grooming / refinement,class 2
+Action,Create long term plan document,class 2
+Action,Create KPIs,class 2
+Action,EM Values: Use delegation and SLII (situational leadership) skills,class 2
+Action,Create or update a Headcount document,class 2
+Action,Create a doc justifying additional staffing,class 2
+Action,Write job descriptions (potentially a new role's description),class 2
+Action,Work on promotion packets.,class 2
+Action,Give praise (1-1 or publicly),class 2
+Action,"Organize your communication channels for the team (slack, email lists, etc)",class 2
+Action,Schedule a fixit week,class 2
+Action,Organize docs for the team,class 2
+Action,Have a scavenger hunt offsite with randomly assigned teams,class 2
+Action,Reprioritize your team's goals,class 2
+Action,Appoint someone else to run standup,class 2
+Action,Guilt them into staying through the end of project,class 2
+Action,Solicit NPS scores from your team's customers (internally or externally),class 2
+Action,Bring in stakeholders to explain business value,class 2
+Action,Take them out for a drink and co-miserate,class 2
+Action,Create an OKR for the whole team to shadow 1 team member from another teams,class 2
+Action,Encourage conversation about career goals and aspirations,class 2
+Action,Find mentors for teammates on other teams,class 2
+Action,Change scope of project by finding other teams to do the work,class 2
+Action,"Request an increased budget for your team (opex, capex, or headcount)",class 2
+Action,Brainstorm with people team and HR,class 2
+Action,Promote the best member,class 2
+Action,Find mentor or role model for team member,class 2
+Action,Create new execution process for team (how we ship),class 2
+Action,Create (or escalate an issue into) a fire so the team can bond by putting it out,class 2
+Action,"Start a private doc about an individual carefully recording every interaction and agreed goals, actions, results, and attitudes",class 2
+Action,"Lead by example, do ____",class 2
+Action,Do stand-downs instead of stand-ups (describe frequency how often they will occur),class 2
+Action,Start having a question of the day in standups,class 2
+Action,"Do an ""escape the room"" offsite",class 2
+Action,Talk to the CEO,class 2
+Action,Ask a question on a companywide forum,class 2
+Action,Request a skip level 1:1 with your manager's lead,class 2
+Action,"Fire the person with the lowest morale, thereby raising the average (!)",class 2
+Action,Encourage individual to take some paid time off,class 2
+Action,Talk to your coach / mentor about it,class 2
+Action,"Create a new slack channel, move the discussion there",class 2
+Action,Send a private message / email to ___ about ___,class 2
+Action,Take the team to lunch / dinner / drinks / ____,class 2
+Action,"Spend __ hours refining the backlog and roadmap with ___, schedule this on a repeating ___ basis",class 2
+Action,Designate / ask for the right authority to designate a product owner,class 2
+Action,Ship the software as it stands now!,jaw
+Action,Send a weekly email about ___ to the team,jaw
+Action,"Create a definition of ""what done is""",jaw
+Action,"Decline all meetings without a clear agenda, ask everyone else to also do this",jaw
+Action,Prioritize the backlog with ____,jaw
+Action,Estimate the top items on the backlog with the team,jaw
+Action,Plan your next iteration by getting everyone in a room with no clearly prioritized backlog. No-one leaves till all agree and backlog completely reviewed.,jaw
+Action,Plan your next iteration by getting the team in a room and only pick up and estimate scope off the prioritized backlog that they commit to accomplishing this iteration,jaw
+Action,Ask someone on your team to stop their current work and work on ____ instead. (Interrupt the iteration!),jaw
+Action,Break down a big item into smaller items,jaw
+Action,Measure velocity and share it by ______________ with the team every _____,jaw
+Action,Use planning poker cards to estimate. Only estimate a backlog that is already prioritized.,jaw
+Action,"Make a visible and motivating chart (lo-tech paper and marker or whiteboard, not a screen). Update it every _____.",jaw
+Action,Ask people to work overtime or on the weekend,jaw
+Action,Make a doc on __________. Write goals and non goals. Use a decision making framework ________.,
